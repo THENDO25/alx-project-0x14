@@ -10,12 +10,12 @@ const Header = () => {
         <ul className="flex space-x-4">
           <li>
             <Link href="/">
-              <a>Home</a>
+              Home
             </Link>
           </li>
           <li>
             <Link href="/movies">
-              <a>Movies</a>
+              Movies
             </Link>
           </li>
         </ul>
